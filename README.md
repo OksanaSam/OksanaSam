@@ -15,4 +15,4 @@ Currently, I'm looking for remote job opportunities to build something great wit
 - :heavy_check_mark: Favourite quote: If you think you can do a thing or think you can't do a thing, you're right. Henry Ford
 - :see_no_evil: I would like to meet myself in 5 years to see where I eventually land
 
-Check out my repos. Please feel free to submit a PR if you have some suggestions :computer:
+Please feel free to check out my repos and submit a PR if you have any suggestions :computer:
