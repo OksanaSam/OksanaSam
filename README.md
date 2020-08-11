@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my coding diary app (React) and translate-me (React/Gatsby) 
-- <img src="https://img.icons8.com/plasticine/100/000000/react.png"/> I’m currently learning all things React
+- <img src="https://img.icons8.com/plasticine/20/000000/react.png"/> I’m currently learning all things React
 - 🌱 I’m curious about Vue.js and Node.js
 - :heavy_division_sign: You can find me hanging on CodeWars and wondering how to improve my math skills
 - 👯 I’m looking to collaborate on open source projects (JavaScript, in particular React)
