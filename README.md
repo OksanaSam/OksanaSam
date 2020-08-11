@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with TypeScript
 - 💬 Ask me about anything <a href="https://twitter.com/oksanadev">here</a>
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: if you wanna be friends, bring me some macaroons <img src="https://img.icons8.com/ios/50/000000/macaron.png"/>
+- ⚡ Fun fact: if you wanna be friends, bring me some macaroons <img src="https://img.icons8.com/ios/10/000000/macaron.png"/>
 - ⚡ Favourite quote: If you think you can do a thing or think you can't do a thing, you're right. Henry Ford
 - ⚡ Favourite author: Jean-Paul Sartre
 
