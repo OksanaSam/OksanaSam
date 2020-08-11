@@ -11,6 +11,6 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: if you wanna be friends, bring me some macaroons <img src="https://img.icons8.com/ios/10/000000/macaron.png"/>
 - ⚡ Favourite quote: If you think you can do a thing or think you can't do a thing, you're right. Henry Ford
-- ⚡ Favourite author: Jean-Paul Sartre
+- :book: Favourite author: Jean-Paul Sartre
 
 Check out my repos. Please feel free to submit a PR if you have some suggestions <img src="https://img.icons8.com/clouds/100/000000/laptop.png"/>
