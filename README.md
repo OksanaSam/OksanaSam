@@ -13,4 +13,4 @@
 - ⚡ Favourite quote: If you think you can do a thing or think you can't do a thing, you're right. Henry Ford
 - :book: Favourite author: Jean-Paul Sartre
 
-Check out my repos. Please feel free to submit a PR if you have some suggestions <img src="https://img.icons8.com/clouds/100/000000/laptop.png"/>
+Check out my repos. Please feel free to submit a PR if you have some suggestions :computer:
