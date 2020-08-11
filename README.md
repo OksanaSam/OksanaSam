@@ -11,6 +11,6 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: if you wanna be friends, bring me some macaroons <img src="https://img.icons8.com/ios/20/000000/macaron.png"/>
 - :heavy_check_mark: Favourite quote: If you think you can do a thing or think you can't do a thing, you're right. Henry Ford
-- :book: Favourite author: Jean-Paul Sartre
+- :see_no_evil: I would like to meet myself in 5 years to see where I eventually land
 
 Check out my repos. Please feel free to submit a PR if you have some suggestions :computer:
