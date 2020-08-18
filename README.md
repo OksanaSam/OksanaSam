@@ -13,6 +13,5 @@ Currently, I'm looking for remote job opportunities to build something great wit
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: if you wanna be friends, bring me some macaroons <img src="https://img.icons8.com/ios/20/000000/macaron.png"/>
 - :heavy_check_mark: Fabricando fabricamur [By creating, we create ourselves]
-- :see_no_evil: I would like to meet myself in 5 years to see where I eventually land
 
 Please feel free to check out my repos and submit a PR if you have any suggestions :computer:
