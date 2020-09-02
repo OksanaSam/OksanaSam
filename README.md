@@ -1,4 +1,4 @@
-### Hi there 👋
+![profile](https://github.com/OksanaSam/OksanaSam/blob/master/profilegithub.png)
 
 I'm Oksana Samokhvalova, a Front-End Developer based in Toronto, Canada.
 Currently, I'm looking for remote job opportunities to build something great with great people.
