@@ -2,8 +2,7 @@ Hi👋 I'm Oksana.
 
 Currently, I'm building something great with great people.
 
-- 🔭 I’m into JavaScript, React, Next, TypeScript, Node.js, and other cool stuff
-- 🌱 Curious about GraphQL
+- 🔭 I’m into all things JavaScript and Node.js
 - 👯 Looking to collaborate on open source projects
 - 💬 Ask me about anything <a href="https://twitter.com/oksanadev">here</a>
 - 😄 Pronouns: she/her
